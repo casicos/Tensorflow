@@ -12,7 +12,7 @@ open source license on November 9, 2015 - https://en.wikipedia.org/wiki/TensorFl
     1. Nothing
     
 #### Logistic Classification
-    1. Iris Species [Binary classification for Iris-setosa]
+    1. Iris Species (Binary)
     
 #### Logistic Regression
     1. ex1
